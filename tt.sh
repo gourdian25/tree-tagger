@@ -1,4 +1,8 @@
 #!/bin/bash
+
+// File: tt.sh
+
+#!/bin/bash
 # tt - Enhanced Smart Tree Tagger v2.0
 # Robust file header management with backup and safety features
 
