@@ -1,8 +1,4 @@
 #!/bin/bash
-
-// File: install.sh
-
-#!/bin/bash
 # tt (Enhanced Smart Tree Tagger) Install Script
 # This script installs tt by downloading it from GitHub,
 # making it executable, and placing it in /usr/local/bin.
